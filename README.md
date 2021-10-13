@@ -1,6 +1,6 @@
 # Github search app
 
-> Live demo [_here_](https://SashaRudenko.github.io/github-list).
+> Live demo [_here_](https://sasharudenko.github.io/Github-List/).
 
 
 ## General Information
