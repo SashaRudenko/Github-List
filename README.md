@@ -1,9 +1,19 @@
-# React TypeScript Starter Pack
+# Github search app
 
-To use this template click `Use this template`
+> Live demo [_here_](https://SashaRudenko.github.io/github-list).
 
-### Available Scripts
 
-`Deploy` - available to deploy your application to gh-pages
+## General Information
+Single page application, which lists the repositories and organizations by search term
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+
+## Technologies Used
+- HTML/SCSS
+- JS
+- React
+- TypeScript
+
+## Usage
+
+`npm start`
+
